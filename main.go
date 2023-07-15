@@ -1,7 +1,7 @@
 package main
 
 import (
-	"godesde0/teclado"
+	"godesde0/mapas"
 )
 
 func main(){
@@ -26,5 +26,17 @@ func main(){
 	// }
 
 	//fmt.Println(ejercicios.ConvNumerico("10ghg0"))
-	teclado.IngresoNumeros()
+	//teclado.IngresoNumeros()
+	//iteraciones.Iterar()
+	//fmt.Println(ejercicios.Multiplicar())
+	//files.GrabaTabla()
+	//files.SumaTabla()
+	//files.LeoArchivo()
+	//funciones.Calculos()
+	//funciones.LlamarClosure()
+	//funciones.Exponencia(2)
+	//arreglosslices.MuestraArreglos()
+	//arreglosslices.MuestroSlice()
+	//arreglosslices.Capacidad()
+	mapas.MostrarMapas()
 }
