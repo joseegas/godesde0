@@ -1,7 +1,7 @@
 package main
 
 import (
-	"godesde0/mapas"
+	deferpanic "godesde0/defer_panic"
 )
 
 func main(){
@@ -38,5 +38,14 @@ func main(){
 	//arreglosslices.MuestraArreglos()
 	//arreglosslices.MuestroSlice()
 	//arreglosslices.Capacidad()
-	mapas.MostrarMapas()
+	//mapas.MostrarMapas()
+	//users.AltaUsuario()
+	// Pedro:=new(modelos.Hombre)
+	// ejerinterfaces.HumanosRespirando(Pedro)
+
+	// Maria:=new(modelos.Mujer)
+	// ejerinterfaces.HumanosRespirando(Maria)
+
+	//deferpanic.VamosDefer()
+	deferpanic.EjemploPanic()
 }
